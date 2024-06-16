@@ -1,0 +1,17 @@
+.users_container {
+    display: grid;
+    justify-content: center;
+}
+
+.module {
+    display: flex;
+    justify-content: center;
+    
+}
+.module .user {
+    background-color: grey;
+    padding: 40px;
+    border-radius: 15px;
+    width: fit-content;
+    margin-bottom: 30px;
+}
